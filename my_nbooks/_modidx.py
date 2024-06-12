@@ -5,4 +5,8 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://haimianxing.github.io',
                 'git_url': 'https://github.com/haimianxing/my_nbooks',
                 'lib_path': 'my_nbooks'},
-  'syms': {'my_nbooks.core': {'my_nbooks.core.foo': ('core.html#foo', 'my_nbooks/core.py')}}}
+  'syms': { 'my_nbooks.core': { 'my_nbooks.core.HelloSayer': ('core.html#hellosayer', 'my_nbooks/core.py'),
+                                'my_nbooks.core.HelloSayer.__init__': ('core.html#hellosayer.__init__', 'my_nbooks/core.py'),
+                                'my_nbooks.core.HelloSayer.say': ('core.html#hellosayer.say', 'my_nbooks/core.py'),
+                                'my_nbooks.core.foo': ('core.html#foo', 'my_nbooks/core.py'),
+                                'my_nbooks.core.say_hello': ('core.html#say_hello', 'my_nbooks/core.py')}}}
