@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "my_nbooks"
+  site-url: "https://haimianxing.github.io/my_nbooks"
+  description: "my kaggle ,deep ,machine algorithm repo"
+  repo-branch: main
+  repo-url: "https://github.com/haimianxing/my_nbooks"
