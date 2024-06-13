@@ -23,11 +23,11 @@ Fill me in please! Don’t forget code examples:
     2
 
 ``` python
-import pandas as pd
+# import pandas as pd
 ```
 
 ``` python
-say_hello("Isaac")
+# say_hello("Isaac")
 ```
 
     'Hello Isaac!'
